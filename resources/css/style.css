@@ -1,0 +1,55 @@
+/* Header */
+header {
+  display:flex;
+  align-items: center;
+  position: fixed;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  align-items: center;
+  border-bottom: 1px solid black;
+  width: 100%;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+}
+
+.logo img {
+  width: 70px;
+  height: 60px;
+  margin-right: 12px;
+}
+
+.logo span {
+  color: MediumAquamarine;
+}
+
+.logo nav {
+  padding-right: 40px;
+}
+
+nav {
+  text-align: left;
+}
+
+nav span {
+  display: inline-block;
+  padding: 20px 10px;
+}
+
+a {
+  color: black;
+}
+
+/*Main Page*/
+
+.content {
+  border: 1px solid black;
+}
+
+div {
+  border: 1px solid black;
+}
